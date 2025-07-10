@@ -48,8 +48,7 @@ Bu proje, afet ve acil durum anlarında vatandaşlar ile yetkililer arasında **
 
 ## 📷 Ekran Görüntüleri
 
-> 📌 Ekran görüntüleri klasörü içerisinde bulunmaktadır.  
-> Örnek: `screenshots/`
+
 
 ## ⚙️ Kurulum
 
